@@ -1,4 +1,4 @@
-# CSS - Useful Resources
+# CSS - Useful Resources [![Build Status](https://api.travis-ci.org/rorystandley/css-useful-resources.svg)](https://travis-ci.org/rorystandley/css-useful-resources)
 
 A collective list of useful CSS resources.
 
